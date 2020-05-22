@@ -14,7 +14,7 @@ https://colab.research.google.com/drive/1O29P5gR3QjVT-Ih7Yl_wWcL6cwtfTgDd?authus
 analises estatísticas
 
 Aula 03
-https://colab.research.google.com/drive/1GupN4LhsaEx3iTCpdPV_u6sBoU-_89vM?authuser=1#scrollTo=vN423KaBi5iB
+https://colab.research.google.com/drive/1GupN4LhsaEx3iTCpdPV_u6sBoU-_89vM
 
 Data visualization
 Correlações
