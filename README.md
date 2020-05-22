@@ -8,7 +8,7 @@ Python
 Pandas
 
 Aula 02
-https://colab.research.google.com/drive/1O29P5gR3QjVT-Ih7Yl_wWcL6cwtfTgDd
+https://bit.ly/36lAkWi
 
 analises estatísticas
 
