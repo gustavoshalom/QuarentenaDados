@@ -10,7 +10,7 @@ Pandas
 Aula 02
 https://bit.ly/36lAkWi
 
-analises estatísticas
+Analises estatísticas
 
 Aula 03
 https://colab.research.google.com/drive/1GupN4LhsaEx3iTCpdPV_u6sBoU-_89vM
