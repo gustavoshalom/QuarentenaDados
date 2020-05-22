@@ -2,7 +2,7 @@
 Estes são as minhas resoluções quanto aos desafios da semana Quarentena Dados praticada pela Alura. 
 
 Aula 01
-https://colab.research.google.com/drive/12OUrefnmbNJseuMLWxSjaaYWz3Kt0rXK?authuser=1#scrollTo=OuYA1aSIX0vJ
+https://colab.research.google.com/drive/12OUrefnmbNJseuMLWxSjaaYWz3Kt0rXK
 
 Python
 Pandas
