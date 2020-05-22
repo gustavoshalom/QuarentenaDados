@@ -9,7 +9,7 @@ Pandas
 Colab
 
 Aula 02
-https://colab.research.google.com/drive/1O29P5gR3QjVT-Ih7Yl_wWcL6cwtfTgDd?authuser=1#scrollTo=VwdPCi2p5eQu
+https://colab.research.google.com/drive/1O29P5gR3QjVT-Ih7Yl_wWcL6cwtfTgDd
 
 analises estatísticas
 
